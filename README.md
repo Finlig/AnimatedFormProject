@@ -32,3 +32,19 @@ To run this project locally:
 1. Clone the repository
    ```bash
    git clone https://github.com/Finlig/AnimatedFormProject.git
+
+Open index.html in your browser
+
+No build tools or installations required — it's pure front-end!
+
+🛠️ Built With
+HTML5
+
+CSS3
+
+JavaScript
+
+📸 Preview
+
+   <img width="1280" alt="Screenshot 2025-05-18 at 6 43 33 PM" src="https://github.com/user-attachments/assets/10e49200-fe03-4e17-9f54-291965ef88bc" />
+
